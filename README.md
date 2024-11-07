@@ -72,4 +72,35 @@ sudo systemctl restart apache2
 ```
 ## Configurem la base de dades de mysql
 ### Entrem a la consola de dades de mysql per posar tots aquestes comandes.
+Des d'un terminal on siguem **root** posem aquesta comanda per entrar a la terminal de mysql
+``` bash
+sudo mysql
+```
+### Creem una base de dades.
+Dins el terminal de mysql creem una base de dades, ja que al estar creant aquesta nova base de dades, li posem el nom de **bbdd**
+``` bash
+CREATE DATABASE bbdd;
+```
+### Creacio del nostre usuari
+Ara tenim que crear un nou usuari, amb un usuari i una contrasenya, a més que utilitzarem l'IP de **localhost**
+``` bash
+CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+```
+### Per finalitzar li donem privilegis al nostre usuari
+``` bash
+GRANT ALL ON bbdd.* to 'usuario'@'localhost';
+```
+### Sortim de la base de dades
+``` bash
+exit
+```
+### Ens asegurem de que hem fet tots els passos bé.
+Amb el terminal normal sense privilegis provem a conectarnos a mysql i introduem la nostra contrasenya de mysql.
+``` bash
+mysql -u usuario -p
+```
+
+
+
+
 
