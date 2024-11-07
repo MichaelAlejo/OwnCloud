@@ -103,7 +103,30 @@ mysql -u usuario -p
 Descarguem el .zip de la nostra cloud, en aquest cas la de OwnCloud:
 https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
 
-
+Ara copiem el .zip i ho peguem al directori **/var/www/html** per fer tot el que ens falta per fer (Baixades pot variar depenent de l'idioma que tinguis).
+``` bash
+sudo cp ~/Baixades/owncloud-complete-20240724.zip /var/www/html
+```
+Ara anem al directori **/var/www/html**
+``` bash
+cd /var/www/html
+```
+En aquest directori descomprimim el .zip que hem baixat.
+``` bash
+sudo unzip owncloud-complete-20240724.zip
+```
+Copiem els fitxers a la carpeta **/var/www/html**, i cambiem els signes d'interogant (??) pel nom del directori on s'ha descomprimit l'arxiu d'abans.
+``` bash
+sudo cp -R ??/. /var/www/html
+```
+Ara la carpeta creada de quan hem descomprimit l'archiu, l'eliminem (tornem a cambiar **??** per el nom de la carpeta).
+``` bash
+sudo rm -rf ??/
+```
+Y per ultim eliminem el fitxer **index.html** de l'Apache2
+``` bash
+sudo rm -rf /var/www/html/index.html
+```
 
 
 
