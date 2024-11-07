@@ -127,6 +127,17 @@ Y per ultim eliminem el fitxer **index.html** de l'Apache2
 ``` bash
 sudo rm -rf /var/www/html/index.html
 ```
+## Permisos a les nostres aplicacions web.
+Al ja tenir descomprimit el fitxer a **/var/www/html** donem permisos a aquest mateix directori amb les seguents comandes.
+``` bash
+cd /var/www/html
+```
+``` bash
+sudo chmod -R 775 .
+```
+``` bash
+sudo chown -R usuario:www-data .
+```
 
 
 
