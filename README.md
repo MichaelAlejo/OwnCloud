@@ -99,6 +99,9 @@ Amb el terminal normal sense privilegis provem a conectarnos a mysql i introduem
 ``` bash
 mysql -u usuario -p
 ```
+## Descarguem l'apliccacio web
+Descarguem el .zip de la nostra cloud, en aquest cas la de OwnCloud:
+https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
 
 
 
