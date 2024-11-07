@@ -59,3 +59,17 @@ Instalem la base de dades de mysql
 ``` bash
 sudo apt install -y apache2
 ```
+Instalem algunes llibreries **PHP**, que aquest es el lenguatge de totes les aplicacions.
+``` bash
+sudo apt install -y php libapache2-mod-php
+```
+``` bash
+sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl
+```
+Y per finalitzar reiniciem el servidor d'Apache2
+``` bash
+sudo systemctl restart apache2
+```
+## Configurem la base de dades de mysql
+### Entrem a la consola de dades de mysql per posar tots aquestes comandes.
+
