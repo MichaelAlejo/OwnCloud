@@ -138,7 +138,14 @@ sudo chmod -R 775 .
 ``` bash
 sudo chown -R usuario:www-data .
 ```
-## Veure si podem acceder al navegador.
+## Veure si podem accedir al navegador.
+Entreu a http://localhost en el teu navegador web, i configura la teva Cloud.
+Si heu fet be tots els passos, us ficara al OwnCloud, i us pedira crear-vos un un usuari d'admin i la base de dades que has configurat.
 
+La teva informacio seria:
+- Usuari: usuario
+- Contrasenya: password
+- Base de dades: bbdd
+- Domini: localhost
 
-
+I amb aixo ja hauries d'aver acabat de configurar i instal·lar la teva base de dades, i ja podries usar perfectament la teva Cloud.
