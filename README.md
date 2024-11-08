@@ -182,6 +182,7 @@ CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 GRANT ALL ON bbdd.* to 'usuario'@'localhost';
 
 ```
+![Captura desde 2024-11-07 14-07-08](https://github.com/user-attachments/assets/e0b44991-d29e-46e2-a0d7-18a94b98d391)
 
 ### Sortim de la base de dades
 
