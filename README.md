@@ -173,6 +173,7 @@ Ara hem de crear un nou usuari, amb un usuari i una contrasenya, a més que util
 CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 
 ```
+![Captura desde 2024-11-07 14-06-57](https://github.com/user-attachments/assets/d1611068-eeaf-4d1d-b109-e6531834f477)
 
 ### Per finalitzar li donem privilegis al nostre usuari
 
