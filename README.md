@@ -151,7 +151,7 @@ Des d'un terminal on siguem root posem aquesta comanda per entrar a la terminal 
 sudo mysql
 
 ```
-![text alternatiu](Captura desde 2024-11-07 14-06-07.jpeg)
+![Captura desde 2024-11-07 14-06-07(1)](https://github.com/user-attachments/assets/a0477b29-fd8f-4859-8ee9-8aabf9b613f3)
 
 ### Creem una base de dades.
 
@@ -292,5 +292,3 @@ La teva informació seria:
 - Domini: localhost
 
 I amb això ja hauries d'haver acabat de configurar i instal·lar la teva base de dades, i ja podries usar perfectament la teva Cloud.
-
-
