@@ -162,6 +162,7 @@ Dins el terminal de mysql creem una base de dades, ja que a l'estar creant aques
 CREATE DATABASE bbdd;
 
 ```
+![Captura desde 2024-11-07 14-06-20](https://github.com/user-attachments/assets/ab8def8a-e326-4a43-b230-16809fb4167f)
 
 ### Creació del nostre usuari
 
