@@ -151,6 +151,7 @@ Des d'un terminal on siguem root posem aquesta comanda per entrar a la terminal 
 sudo mysql
 
 ```
+![text alternatiu](Captura desde 2024-11-07 14-06-07.jpeg)
 
 ### Creem una base de dades.
 
