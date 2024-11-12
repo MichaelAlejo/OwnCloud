@@ -43,3 +43,11 @@ I posem el nom dels rols que volem donar permisos a aquesta carpeta, o el nom de
 I amb els teus rols i usuaris ahuria de quedar aixi
 
 ![Captura desde 2024-11-12 09-23-02](https://github.com/user-attachments/assets/a0cecf31-4afb-426e-a607-99d41497a1ae)
+
+I si li donem al engranatge al costat del usuari o rol, podem posar que pot fer aquest grup o persona. 
+
+![Captura desde 2024-11-12 09-25-46](https://github.com/user-attachments/assets/eae7ab17-c2b4-4360-9972-63722246f288)
+
+I amb aixo ja ahuriem d'haver acabat de configurar rols i permisos als rols.
+
+# Administració d'arxius.
