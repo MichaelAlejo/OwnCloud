@@ -12,8 +12,9 @@ Aqui cliquem on posa "users".
 ![Captura desde 2024-11-12 08-39-36](https://github.com/user-attachments/assets/1d38c658-3cd8-4e1c-ba9a-7e43ce801ea5)
 
 I aqui es on creem els usuaris.
-Per crear el usuari tenim que posar el nom de l'usuari, i un e-mail, que pot ser inventat. 
-Aixo es fa en la branca de dalt del teu usuari que posa el que he dit abans.
+Per crear el usuari tenim que posar el nom de l'usuari, i un e-mail, que pot ser inventat.
+
+Aixo es fa en l'espai de dalt del teu usuari que posa el que he dit abans.
 
 ![Captura desde 2024-11-12 08-43-09](https://github.com/user-attachments/assets/a0487e98-c3f0-4e42-9fd3-b44ef4b53575)
 
