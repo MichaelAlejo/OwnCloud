@@ -295,3 +295,7 @@ La teva informació seria:
 - Domini: localhost
 
 I amb això ja hauries d'haver acabat de configurar i instal·lar la teva base de dades, i ja podries usar perfectament la teva Cloud.
+
+# Configuració d'OwnCloud
+Ara pasarem a configurar el nostre OwnCloud [Pagina](https://github.com/MichaelAlejo/OwnCloud/blob/main/Cofiguraci%C3%B3%20ownCloud.md))
+
