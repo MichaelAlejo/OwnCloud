@@ -33,3 +33,13 @@ I ahuria de quedar aixi amb el nom dels rols creats per tu.
 
 ![Captura desde 2024-11-12 09-04-21](https://github.com/user-attachments/assets/a5ade8fe-e0fc-4842-a09b-3f475ed73654)
 
+Ara assignem permisos al nostres usuaris.
+Li donem a "users" que posa d'alt del tot, i aqui donem a "Archivos"
+
+Aqui seleccionem la carpeta a que volem donar permisos als nostres usuaris.
+<p> I li donem a "sharing"
+I posem el nom dels rols que volem donar permisos a aquesta carpeta, o el nom de l'usuari al que volem donar permisos en aquesta carpeta.
+
+I amb els teus rols i usuaris ahuria de quedar aixi
+
+![Captura desde 2024-11-12 09-23-02](https://github.com/user-attachments/assets/a0cecf31-4afb-426e-a607-99d41497a1ae)
